@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c9cfb26-f3ff-46dd-a266-94898047d168" name="Changes" comment="Initial Commit: Simple follow-along CRUD project on Spring Boot.">
+    <list default="true" id="1c9cfb26-f3ff-46dd-a266-94898047d168" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
